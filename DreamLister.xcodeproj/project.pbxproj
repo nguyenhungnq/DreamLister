@@ -25,6 +25,7 @@
 		677023B91E24F049001B1EA4 /* MaterialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677023B81E24F049001B1EA4 /* MaterialView.swift */; };
 		677923501E25C5130054B1DF /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6779234F1E25C5130054B1DF /* ItemCell.swift */; };
 		67DDA7221E275D630038AC72 /* ItemDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DDA7211E275D630038AC72 /* ItemDetailsVC.swift */; };
+		67F6127F1E28755200EEEAA8 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F6127E1E28755200EEEAA8 /* CustomTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		677023B81E24F049001B1EA4 /* MaterialView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaterialView.swift; sourceTree = "<group>"; };
 		6779234F1E25C5130054B1DF /* ItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
 		67DDA7211E275D630038AC72 /* ItemDetailsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemDetailsVC.swift; sourceTree = "<group>"; };
+		67F6127E1E28755200EEEAA8 /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 			children = (
 				677023B81E24F049001B1EA4 /* MaterialView.swift */,
 				6779234F1E25C5130054B1DF /* ItemCell.swift */,
+				67F6127E1E28755200EEEAA8 /* CustomTextField.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 				67689DA01E24936C00D8A2EB /* DreamLister.xcdatamodeld in Sources */,
 				675C8D511E24C0D5001DF88D /* Image+CoreDataClass.swift in Sources */,
 				675C8D521E24C0D5001DF88D /* Image+CoreDataProperties.swift in Sources */,
+				67F6127F1E28755200EEEAA8 /* CustomTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
