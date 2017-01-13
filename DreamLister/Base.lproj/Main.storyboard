@@ -203,6 +203,9 @@
                                 <state key="normal" title="Save Item">
                                     <color key="titleColor" red="0.80372596149999997" green="0.80372596149999997" blue="0.80372596149999997" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
+                                <connections>
+                                    <action selector="savePressed:" destination="mTO-pj-TQ6" eventType="touchUpInside" id="ZP2-Ki-F8a"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Select Store" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cQr-s1-OoX">
                                 <constraints>
